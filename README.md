@@ -5,13 +5,14 @@ _Drawn into the tech world, a 20-something wonders why she—and the rest of us�
 ![Opening illustration, uncanny valley book review](https://static01.nyt.com/images/2020/01/05/books/review/05Oyler-COVER/05Oyler-COVER-superJumbo.jpg?quality=75&auto=webp)
 
 ### Table of contents
-- [Introduction](#introduction)
-- [The book](#the-book)
-- [The author](#the-author)
-- [Reviews](#reviews)
-- [References](#references)
+- [Introduction](##introduction)
+- [The book](##the-book)
+  * [Summary](###summary)
+  * [The author](###the-author)
+  * [Reviews](###reviews)
+- [References](##references)
 
-## Introduction {#introduction}
+## Introduction
 Is it weird that a C.E.O. can be considered up-and-coming?
 Yes, but of course everything about the new nearly normal is weird, and Wiener is a droll yet gentle guide.
 Divided into two parts — *Incentives* and *Scale* — *Uncanny Valley* begins across the country, where 25-year-old Wiener is a low-paid assistant at a small New York literary agency, *“oblivious to Silicon Valley, and contentedly so.”*
@@ -28,7 +29,8 @@ It was the hottest of products in an era when ever more finely articulated data 
 After nearly two years of being “Down for the Cause”—as the young CEO demanded—she began to wonder about the psychological and social effects of tech, yet continued to drift through the Valley.
 
 
-##The Book {the-book}
+##The Book
+###Summary
 The book details Wiener's decision to quit her job as a freelance copy editor and literary agency assistant in New York in order to move to Silicon Valley in San Francisco.
 Wiener, who felt restricted by the publishing industry's restrictive norms and shrinking revenue, feels out of place amongst the tech executives and engineers in her new surroundings yet content with her rising wage and generous work benefits.
 After switching between several companies, she finally settles on the open-source coding company GitHub as a customer service representative.
@@ -38,7 +40,7 @@ Throughout the book, Wiener ruminates about the moral implications of data colle
 ![Uncanny Valley: a memoir cover](https://static01.nyt.com/images/2019/12/11/books/review/Oyler2/Oyler2-jumbo.jpg?quality=75&auto=webp)
 [book cover for Uncanny Valley: a memoir - NYTimes 2020]
 
-### The Author {the-author}
+### The Author
 ![alt text](https://www.corriere.it/methode_image/2021/01/03/Cultura/Foto%20Cultura%20-%20Trattate/anna%20wiener-kcpG-U323013176918016MI-656x492@Corriere-Web-Sezioni.jpg)
 Wiener, who grew up in Brooklyn, attended Wesleyan University in Middletown, CT. After college, she moved to New York before later moving to San Francisco.[^1]
 She chose to work in the tech sector in an attempt to find a career path with more "momentum" than the book publishing industry, where she was previously employed.
