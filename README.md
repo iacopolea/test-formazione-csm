@@ -5,12 +5,12 @@ _Drawn into the tech world, a 20-something wonders why sheâ€”and the rest of usâ
 ![Opening illustration, uncanny valley book review](https://static01.nyt.com/images/2020/01/05/books/review/05Oyler-COVER/05Oyler-COVER-superJumbo.jpg?quality=75&auto=webp)
 
 ### Table of contents
-- [Introduction](##introduction)
-- [The book](##the-book)
-  * [Summary](###summary)
-  * [The author](###the-author)
-  * [Reviews](###reviews)
-- [References](##references)
+- [Introduction](#introduction)
+- [The book](#the-book)
+  * [Summary](#summary)
+  * [The author](#the-author)
+  * [Reviews](#reviews)
+- [References](#references)
 
 ## Introduction
 Is it weird that a C.E.O. can be considered up-and-coming?
