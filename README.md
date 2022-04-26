@@ -29,8 +29,8 @@ It was the hottest of products in an era when ever more finely articulated data 
 After nearly two years of being “Down for the Cause”—as the young CEO demanded—she began to wonder about the psychological and social effects of tech, yet continued to drift through the Valley.
 
 
-##The Book
-###Summary
+## The Book
+### Summary
 The book details Wiener's decision to quit her job as a freelance copy editor and literary agency assistant in New York in order to move to Silicon Valley in San Francisco.
 Wiener, who felt restricted by the publishing industry's restrictive norms and shrinking revenue, feels out of place amongst the tech executives and engineers in her new surroundings yet content with her rising wage and generous work benefits.
 After switching between several companies, she finally settles on the open-source coding company GitHub as a customer service representative.
@@ -49,11 +49,11 @@ Her book, Uncanny Valley, never mentions the names of the companies she worked a
 After several years in San Francisco, she chose to leave the tech industry for several reasons, including its lack of response to the classified information released by Edward Snowden and a wider disillusionment with the corporate culture and sexism present therein.
 Since leaving tech, Wiener has been writing about Silicon Valley for The New Republic, n+1, Atlantic, and others. She is a contributing writer to the New Yorker.
 
-### Reviews {#reviews}
+### Reviews
 | Publisher | Author | Link |
 | ----------- | ----------- | ----------- |
 | New York Times | Lauren Oyler | [A Tech Insider Stylishly Chronicles Her Industry’s ‘Uncanny Valley’](https://www.nytimes.com/2020/01/03/books/review/uncanny-valley-anna-wiener.html) |
 | The Atlantic | Ismail Muhammad | [Inside Tech’s Fever Dream](https://www.theatlantic.com/magazine/archive/2020/01/review-anna-wiener-uncanny-valley/603058/)
 
-### References {#references}
+## References
 [^1]: [New Yorker](https://www.newyorker.com/contributors/anna-wiener) 
